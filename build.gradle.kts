@@ -1,6 +1,6 @@
 plugins {
     `base`
-    id("org.gradle.wrapper-upgrade") version "0.11.4"
+    id("org.gradle.wrapper-upgrade") version "0.12"
 }
 
 val projectNames = listOf(
