@@ -11,6 +11,7 @@ val projectNames = listOf(
     "GradleWrapperUpgrader",
     "ProgressButton",
     "kmp-passenger-api",
+    "Result",
 )
 
 wrapperUpgrade.gradle {
