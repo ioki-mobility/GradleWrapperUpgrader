@@ -4,14 +4,9 @@ plugins {
 }
 
 val projectNames = listOf(
-    "kmp-lokalise-api",
-    "LokaliseGradlePlugin",
-    "SentryProguardGradlePlugin",
     "TextRef",
     "GradleWrapperUpgrader",
     "ProgressButton",
-    "kmp-passenger-api",
-    "Result",
 )
 
 wrapperUpgrade.gradle {
